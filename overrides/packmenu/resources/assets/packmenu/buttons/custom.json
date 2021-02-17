@@ -1,9 +1,10 @@
 {
-	"x": 2,
-	"y": 48,
-	"width": 98,
+	"x": -150,
+	"y": -20,
+	"width": 150,
 	"height": 20,
 	"langKey": "packmenu.custom_button",
 	"action": "OPEN_URL",
-	"data": "https://www.curseforge.com/minecraft/mc-mods/packmenu"
+	"anchor": "TOP_RIGHT",
+	"data": "https://www.teufox.com"
 }
