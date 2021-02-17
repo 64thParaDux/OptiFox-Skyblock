@@ -1,0 +1,142 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 17, 2021 3:39:18 AM
+
+#vampirism:vampire
+- vampirism:vampire
+- vampirism:vampire_imob
+- vampirism:advanced_vampire
+- vampirism:advanced_vampire_imob
+- vampirism:vampire_baron
+- vampirism:task_master_vampire
+
+#vampirism:advanced_vampire
+- vampirism:advanced_vampire
+- vampirism:advanced_vampire_imob
+
+#carryon:stacking_whitelist
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- projecte:fire_projectile
+- projecte:lava_projectile
+- projecte:lens_projectile
+- projecte:swrg_projectile
+- projecte:water_projectile
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#carryon:stacking_blacklist
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- projecte:homing_arrow
+
+#projecte:blacklist/swrg
+
+#projecte:randomizer/peaceful
+- minecraft:sheep
+- minecraft:pig
+- minecraft:cow
+- minecraft:mooshroom
+- minecraft:chicken
+- minecraft:bat
+- minecraft:villager
+- minecraft:squid
+- minecraft:ocelot
+- minecraft:wolf
+- minecraft:horse
+- minecraft:rabbit
+- minecraft:donkey
+- minecraft:mule
+- minecraft:polar_bear
+- minecraft:llama
+- minecraft:parrot
+- minecraft:dolphin
+- minecraft:cod
+- minecraft:salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+- minecraft:turtle
+- minecraft:cat
+- minecraft:fox
+- minecraft:panda
+- minecraft:trader_llama
+- minecraft:wandering_trader
+- minecraft:strider
+
+#carryon:entity_blacklist
+
+#projecte:randomizer/hostile
+- minecraft:zombie
+- minecraft:skeleton
+- minecraft:creeper
+- minecraft:spider
+- minecraft:enderman
+- minecraft:silverfish
+- minecraft:zombified_piglin
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:hoglin
+- minecraft:zoglin
+- minecraft:ghast
+- minecraft:blaze
+- minecraft:slime
+- minecraft:witch
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:stray
+- minecraft:wither_skeleton
+- minecraft:skeleton_horse
+- minecraft:zombie_horse
+- minecraft:zombie_villager
+- minecraft:husk
+- minecraft:guardian
+- minecraft:evoker
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:shulker
+- minecraft:drowned
+- minecraft:phantom
+- minecraft:pillager
+
+#vampirism:hunter
+- vampirism:hunter
+- vampirism:hunter_imob
+- vampirism:advanced_hunter
+- vampirism:advanced_hunter_imob
+- vampirism:hunter_trainer
+- vampirism:hunter_trainer
+- vampirism:hunter_trainer_dummy
+- vampirism:task_master_hunter
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#industrialforegoing:mob_imprisonment_tool_blacklist
+- artifacts:mimic
+
+#projecte:blacklist/interdiction
+
+#vampirism:advanced_hunter
+- vampirism:advanced_hunter
+- vampirism:advanced_hunter_imob
+
+#carryon:entity_whitelist

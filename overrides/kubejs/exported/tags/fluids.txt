@@ -1,0 +1,65 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 17, 2021 3:39:18 AM
+
+#ceramics:hot_fluids
+
+#ceramics:cool_fluids
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- securitycraft:fake_water
+- securitycraft:flowing_fake_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:polyethylene
+- silents_mechanisms:polyethylene
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+- create:flowing_milk
+- create:milk
+- inspirations:milk
+- inspirations:flowing_milk
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:diesel
+- silents_mechanisms:diesel
+
+#forge:oil
+- silents_mechanisms:oil
+
+#vampirism:vampirism_impure_blood
+- vampirism:impure_blood
+
+#vampirism:vampirism_blood
+- vampirism:blood
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- securitycraft:fake_lava
+- securitycraft:flowing_fake_lava
+
+#forge:ethane
+- silents_mechanisms:ethane
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- resourcefulbees:honey
+- resourcefulbees:catnip_honey
+- create:flowing_honey
+- create:honey

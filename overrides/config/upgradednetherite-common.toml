@@ -1,0 +1,76 @@
+
+["General Options"]
+	#Disable Tooltips ?(Client Only)
+	DisableTooltips = false
+
+["Armor Options"]
+	#Upgraded Player Armor effect require to wear full set ?
+	UpgradedPlayerArmorRequireSet = true
+
+["Fire Armor Effect Options"]
+	#Enable Fire Upgraded Armor Effect : Fire damage immune. ?
+	EnableFireImmune = true
+	#Fire Upgraded Armor loose durability when protect the player ? (Require EnableFireImmune = True)
+	EnableDamageDurabilityFireArmor = false
+	#How many tick between durability damage for the Fire Upgraded Armor when it protect the player ? (20ticks = 1sec)
+	#Range: 1 ~ 1000
+	DelayDamageDurabilityFireArmor = 20
+	#How many durability damage take the Fire Upgraded Armor when protect the player ? 
+	#Range: 1 ~ 100
+	DamageDurabilityFireArmor = 1
+
+["Ender Armor Effect Options"]
+	#Ender Upgraded Armor Break when save the player ? 
+	EnableBreakEnderArmor = false
+
+["Water Armor Effect Options"]
+	#Water Upgraded Armor loose durability when protect the player ? 
+	EnableDamageDurabilityWaterArmor = false
+	#How many tick between durability damage for the Water Upgraded Armor when it protect the player ? (20ticks = 1sec)
+	#Range: 1 ~ 1000
+	DelayDamageDurabilityWaterArmor = 20
+	#How many durability damage take the Water Upgraded Armor when protect the player ? 
+	#Range: 1 ~ 100
+	DamageDurabilityWaterArmor = 1
+
+["Wither Armor Effect Options"]
+	#Wither Upgraded Armor loose durability when protect the player ? 
+	EnableDamageDurabilityWitherArmor = false
+	#How many tick between durability damage for the Wither Upgraded Armor when it protect the player ? (20ticks = 1sec)
+	#Range: 1 ~ 1000
+	DelayDamageDurabilityWitherArmor = 20
+	#How many durability damage take the Wither Upgraded Armor when protect the player ? 
+	#Range: 1 ~ 100
+	DamageDurabilityWitherArmor = 5
+
+["Poison Armor Effect Options"]
+	#Poison Upgraded Armor loose durability when protect the player ? 
+	EnableDamageDurabilityPoisonArmor = false
+	#How many tick between durability damage for the Poison Upgraded Armor when it protect the player ? (20ticks = 1sec)
+	#Range: 1 ~ 1000
+	DelayDamageDurabilityPoisonArmor = 20
+	#How many durability damage take the Poison Upgraded Armor when protect the player ? 
+	#Range: 1 ~ 100
+	DamageDurabilityPoisonArmor = 5
+
+["Phantom Armor Effect Options"]
+	#Phantom Upgraded Armor loose durability when protect the player ? (Depend on fall distance)
+	EnableDamageDurabilityPhantomArmor = false
+	#How many durability damage take the Phantom Upgraded Armor when protect the player ? (Fall distance * Value)
+	#Range: 1 ~ 100
+	MultiplierDamageDurabilityPhantomArmor = 1
+
+["Feather Armor Effect Options"]
+	#Feather Upgraded Armor loose durability when the player walk on water ? 
+	EnableWaterDamageDurabilityFeatherArmor = false
+	#Feather Upgraded Armor loose durability when the player walk on lava ? 
+	EnableLavaDamageDurabilityFeatherArmor = false
+	#Feather Upgraded Armor loose durability when the player slow falling ? 
+	EnableFallDamageDurabilityFeatherArmor = false
+	#How many tick between durability damage for the Feather Upgraded Armor when the player walk on water/lava or slow falling ? (20ticks = 1sec)
+	#Range: 1 ~ 1000
+	DelayDamageDurabilityFeatherArmor = 20
+	#How many durability damage take the Feather Upgraded Armor when the player walk on water/lava or slow falling ? 
+	#Range: 1 ~ 100
+	DamageDurabilityFeatherArmor = 1
+

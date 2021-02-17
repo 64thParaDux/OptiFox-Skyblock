@@ -1,0 +1,18 @@
+
+#General Settings
+[general]
+	#Clay, Glowstone, Quartz, Redstone and Snow Generators will generate dust items, not blocks.
+	generate_dust = false
+	#Ticks between each generation cycle.
+	#Range: 1 ~ 2000
+	blocks_per_tick = 40
+	#Enable the Ore Generator.
+	oreGeneratorEnable = true
+	#Enable the Dye Generator.
+	dyeGeneratorEnable = true
+
+#OreGenerator Probabilities
+[oregenerator]
+	#Comma separated list of the items and probabilities (probability value between 0.00 and 1.00) to be used in the Ore Generator, format to use: "modid:itemname*probability" e.g. "minecraft:iron_ore*0.45"
+	oreGeneratorItems = ["minecraft:coal_ore*0.50", "minecraft:iron_ore*0.45", "minecraft:gold_ore*0.25", "minecraft:lapis_ore*0.10", "minecraft:redstone_ore*0.10", "minecraft:diamond_ore*0.05", "minecraft:emerald_ore*0.01", "minecraft:nether_quartz_ore*0.00"]
+
