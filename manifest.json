@@ -15,6 +15,16 @@
   "author": "TeuFox, OptiSar, AR.E",
   "files": [
   	{
+  		"projectID": 280554,
+  		"fileID": 3206214,
+  		"required": true
+  	},
+  	{
+  		"projectID": 268655,
+  		"fileID": 3170278,
+  		"required": true
+  	},
+  	{
   		"projectID": 320196,
   		"fileID": 3206910,
   		"required": true
