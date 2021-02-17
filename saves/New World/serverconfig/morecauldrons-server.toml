@@ -1,0 +1,6 @@
+
+#Server settings
+[Server]
+	#When enabled the cauldron will drop the liquid that's in if it breaks while full. (when Inspirations isn't installed) [default: false]
+	liquidDropping = false
+
